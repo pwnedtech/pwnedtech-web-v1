@@ -5,6 +5,6 @@ title: "Contacto"
 
 Para más información del evento puedes escribirnos en:
 
-- Twitter: **@pwnedtech**
-- Instagram: **@pwnedtech**
+- Twitter: [**@pwnedtech**](https://twitter.com/pwnedtech)
+- Instagram: [**@pwnedtech**](https://instagram.com/pwnedtech)
 - Correo: **contacto@pwnedtech.org**
