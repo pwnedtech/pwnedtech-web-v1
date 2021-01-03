@@ -4,7 +4,7 @@ title: Charlas
 
 ### Charlas Verano 2021
 
-Pronto charlas Enero/Febrero.
+![](images/pwnedTech.jpg)
 
 <!-- 
 Todas las horas están en GMT-3.
