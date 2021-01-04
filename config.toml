@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "PWNED TECH"
+baseURL = "https://pwnedtech.org"
+languageCode = "es-ES"
+title = "PWNEDTECH"
 theme = "dimension"
