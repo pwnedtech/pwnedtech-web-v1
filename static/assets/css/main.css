@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+article img{
+	width: 100%;
+}
+
 ol, ul {
 	list-style: none;
 }
